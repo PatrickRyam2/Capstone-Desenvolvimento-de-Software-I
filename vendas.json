@@ -1,0 +1,12 @@
+[
+    {
+        "id_venda": 8,
+        "cliente": "pedro",
+        "vendedor": "João da Silva",
+        "veiculo": "strada",
+        "preco": 19000.0,
+        "data": "24/11/2026",
+        "forma_pagamento": "pix",
+        "comissao": 950.0
+    }
+]
